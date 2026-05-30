@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authfender",
+        "uuid": 7548717,
+        "checksum": "rypk7"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
